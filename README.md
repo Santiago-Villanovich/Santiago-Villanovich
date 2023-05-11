@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # About Me:
-- I'm currently working as a front-end intern at UAI<br>- Studying my third year in Systems Engineering<br>- Doing courses to improve my skills in web development <br>- I'm looking for team working<br>
+- I'm currently working as a front-end intern at UAI<br>
+- Studying my third year in Systems Engineering<br>
+- Doing courses to improve my skills in web development <br>
+- I'm looking for team working<br>
 
 
 ## 🌐 Socials:
